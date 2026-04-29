@@ -13,4 +13,4 @@ jobs:
       - name: Poke Hugging Face Space
         run: |
           # Replace the URL below with your actual .hf.space link
-          curl -Is https://captain-exe-lofi-radio.hf.space/ | head -n 1
+          curl -Is https://captain-exe-infinite-live.hf.space/| head -n 1
