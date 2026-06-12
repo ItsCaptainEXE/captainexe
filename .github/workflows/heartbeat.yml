@@ -14,5 +14,5 @@ jobs:
           echo "Pinging lofi-radio..."
           curl -Is https://captain-exe-lofi-radio.hf.space/ | head -n 1
 
-          echo "Pinging forever-ping..."
-          curl -Is https://captain-exe-forever-ping.hf.space/ | head -n 1
+          echo "Pinging for peace..."
+          curl -Is https://captain-exe-peace-officer.hf.space/ | head -n 1
