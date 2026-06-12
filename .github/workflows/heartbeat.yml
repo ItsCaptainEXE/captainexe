@@ -16,3 +16,6 @@ jobs:
 
           echo "Pinging for peace..."
           curl -Is https://peace-officer.onrender.com/ | head -n 1
+          
+          echo "Pinging for SVRP..."
+          curl -Is https://svrp-bot.onrender.com | head -n 1
