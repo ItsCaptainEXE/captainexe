@@ -15,4 +15,4 @@ jobs:
           curl -Is https://captain-exe-lofi-radio.hf.space/ | head -n 1
 
           echo "Pinging for peace..."
-          curl -Is https://captain-exe-peace-officer.hf.space/ | head -n 1
+          curl -Is https://peace-officer.onrender.com/ | head -n 1
